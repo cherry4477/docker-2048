@@ -1,1 +1,1 @@
-FROM registry.dataos.io/datafoundry/2048:latest
+FROM registry.dataos.io/library/2048:latest
